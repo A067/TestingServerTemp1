@@ -1,4 +1,4 @@
-
+package com.flyht.alpha.tests;
 public class TestLoginPage {
 
 	public static void main(String[] args) {
